@@ -1,0 +1,9 @@
+Ticker: AVGO
+Company: Broadcom Inc.
+
+Daily Return Mean: 0.001665
+Daily Volatility (STD): 0.024022
+Annual Return: 0.419570
+Annual Volatility: 0.381345
+Daily Sharpe Ratio: 0.064353
+Annual Sharpe Ratio: 1.021569

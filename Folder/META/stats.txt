@@ -1,0 +1,9 @@
+Ticker: META
+Company: Meta Platforms, Inc.
+
+Daily Return Mean: 0.001092
+Daily Volatility (STD): 0.025036
+Annual Return: 0.275168
+Annual Volatility: 0.397440
+Daily Sharpe Ratio: 0.038859
+Annual Sharpe Ratio: 0.616867

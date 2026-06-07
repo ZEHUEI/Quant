@@ -1,0 +1,9 @@
+Ticker: CRWV
+Company: CoreWeave, Inc.
+
+Daily Return Mean: 0.005602
+Daily Volatility (STD): 0.072299
+Annual Return: 1.411696
+Annual Volatility: 1.147707
+Daily Sharpe Ratio: 0.075837
+Annual Sharpe Ratio: 1.203875

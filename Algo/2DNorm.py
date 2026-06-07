@@ -5,7 +5,7 @@ import pandas as pd
 
 
 #AVGO, CEG
-ticker = "AVGO"
+ticker = "NVDA"
 STOCK = yf.Ticker(ticker)
 ticker_name = STOCK.info.get("longName", "N/A")
 hist = STOCK.history(period="1y")

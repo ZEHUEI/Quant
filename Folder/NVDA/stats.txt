@@ -1,0 +1,9 @@
+Ticker: NVDA
+Company: NVIDIA Corporation
+
+Daily Return Mean: 0.001944
+Daily Volatility (STD): 0.037385
+Annual Return: 0.490012
+Annual Volatility: 0.593465
+Daily Sharpe Ratio: 0.048828
+Annual Sharpe Ratio: 0.775128
